@@ -1,4 +1,4 @@
-** Rebbus Project - Bus Data Scraping and Streamlit Application **
+**Rebbus Project - Bus Data Scraping and Streamlit Application**
 
 **Overview**
 
